@@ -1,0 +1,10 @@
+# Build output and runtime data
+logs/
+data/
+*.o
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
